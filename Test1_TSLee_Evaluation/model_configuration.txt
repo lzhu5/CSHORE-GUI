@@ -1,0 +1,19 @@
+wave boundary condition: 
+Hrms0 = 0.5813 m
+Tz = 3.185 m
+mwl = 0 m
+breaking gamma = 0.9 m
+
+bottom friction factor = 0.0015 
+veg: 
+veg_start = 47 m
+veg_end = 79.7 m
+stem_population density = 400 stems/m^2
+stem_height = 0.1578 m
+stem_diameter = 0.0079 m
+stem_YoungsE = 80 MPa
+blade_population density = 0 stems/m^2
+blade_height = 0.518 m
+blade_diameter = 0.00436 m
+blade_thickness = 0.000685 m
+blade_YoungsE = 4.36e-09 MPa

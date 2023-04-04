@@ -1,0 +1,26 @@
+Wave boundary conditions:
+Hrms0:  0.5813 m
+Tp: 3.1850 s
+angle: 0 deg
+mwl: 0 m
+swl: 0 m
+
+Process:
+breaking ratio: 0.90
+
+Vegetation:
+extent: from 47.0000 m  to  79.7000 m
+
+flexible vegetation
+
+stem breakage
+Nv: 400 stems/m2
+mean hstem: 0.1578 m
+std hstem: 0.1436 m
+mean bv: 0.0079 m
+std bv: 0.0028 m
+mean flexural strength: 6000000 Pa
+std flexural strength: 4600000 Pa
+Young's E: 80000000 Pa
+
+Cd should be 0.8323

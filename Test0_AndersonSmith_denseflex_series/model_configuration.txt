@@ -1,0 +1,7 @@
+veg_start = 0 m
+veg_end = 7.5 m
+veg_height = 0.415 m
+veg_diameter = 0.0064 m
+veg_YoungsE = 172.4 MPa = 172400000 Pa
+breaking gamma = 0.8 
+bottom friction factor = 0.16 
